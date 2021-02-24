@@ -1,8 +1,29 @@
-.mainTitle {
-  color: purple;
+
+.container {
+  background-image: radial-gradient(#c7e8c1, white);
+  /* background-color: #c7e8c1; */
 }
 
-.storyText {
-  color: navy;
-  background-color: lightblue;
+#banner {
+  background-image: url("../images/foad-roshan-TtDNu-Heh3Y-unsplash.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
+#banner .content {
+  border: 3px solid pink;
+  position: relative;
+  top: 500px;
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+}
+h1 {
+
+  font-size: 42px;
+  font-weight: 600;
+
 }
