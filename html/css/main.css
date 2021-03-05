@@ -5,18 +5,18 @@
 }
 
 #banner {
-  background-image: url("../images/foad-roshan-TtDNu-Heh3Y-unsplash.jpg");
+  /* background-image: url("../images/foad-roshan-TtDNu-Heh3Y-unsplash.jpg"),
+                    linear-gradient(#c7e8c1, white); */
+  background-image: url("../images/foad-roshan-TtDNu-Heh3Y-unsplash.jpg");               
   background-size: cover;
-  background-position: bottom center;
-  height: 700px;
+  background-position: center;
+  height: 400px;
   width: 100%;
 }
 
 #banner .banner-text {
   border: 3px solid pink;
   position: relative;
-  top: 500px;
-  width: 600px;
   margin: 0 auto;
   text-align: center;
   color: black;
